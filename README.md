@@ -12,6 +12,9 @@ Shipping билд игры<br />
 https://drive.google.com/drive/folders/1MaD36LiuoY9T7zjqNqJqRRAYOkWODD03?usp=sharing <br />
 Альтернативное видео:<br />
 https://youtu.be/2NPnDg_OLc8 <br />
+На github не поместилась часть файлов. <br />
+Полный проект: <br />
+https://files.sberdisk.ru/s/BwKWMbPPKrwajYY <br />
 
 
 ---
