@@ -10,6 +10,10 @@ https://imgur.com/a/y8oIFop
 ## Ссылки:
 Shipping билд игры<br />
 https://drive.google.com/drive/folders/1MaD36LiuoY9T7zjqNqJqRRAYOkWODD03?usp=sharing <br />
+Одностраничный ГДД:<br />
+https://drive.google.com/file/d/1Sml_HsKc35rSqVTqQVmaNivP96Agm9TZ/view?usp=drive_link<br />
+Десятистраничный ГДД:<br />
+https://drive.google.com/file/d/1cPW71Ffx1AtEK4tr4yj2l0AqCI6WT9VG/view?usp=drive_link<br />
 Альтернативное видео:<br />
 https://youtu.be/2NPnDg_OLc8 <br />
 На github не поместилась часть файлов. <br />
