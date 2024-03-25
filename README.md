@@ -14,7 +14,9 @@ https://drive.google.com/drive/folders/1MaD36LiuoY9T7zjqNqJqRRAYOkWODD03?usp=sha
 https://drive.google.com/file/d/1Sml_HsKc35rSqVTqQVmaNivP96Agm9TZ/view?usp=drive_link<br />
 Десятистраничный ГДД:<br />
 https://drive.google.com/file/d/1cPW71Ffx1AtEK4tr4yj2l0AqCI6WT9VG/view?usp=drive_link<br />
-Альтернативное видео:<br />
+Видео с комментариями:<br />
+https://youtu.be/cGqVQPGLG8Y<br />
+Альтернативное геймплейное видео на RTX 4070Ti:<br />
 https://youtu.be/2NPnDg_OLc8 <br />
 На github не поместилась часть файлов. <br />
 Полный проект: <br />
