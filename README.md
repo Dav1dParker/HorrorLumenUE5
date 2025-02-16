@@ -8,6 +8,8 @@
 https://imgur.com/a/y8oIFop
 
 ## Ссылки:
+Геймплейное видео <br />
+https://www.youtube.com/watch?v=srX755BIBZE <br />
 Shipping билд игры<br />
 https://drive.google.com/drive/folders/1MaD36LiuoY9T7zjqNqJqRRAYOkWODD03?usp=sharing <br />
 Одностраничный ГДД:<br />
